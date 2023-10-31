@@ -90,6 +90,8 @@ function Forms() {
               <input
                 type="password"
                 name="to_pass"
+         
+                       pattern="(?=.*[0-9]).{8,}"
                 required
                 placeholder="Enter your email password"
               />
