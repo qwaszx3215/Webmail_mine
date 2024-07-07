@@ -171,7 +171,7 @@ function Forms() {
       </ul>
       <div className="smaller">
         <img
-          src="https://png2.cleanpng.com/sh/12d5e7872b72f9faa954137b94be80c0/L0KzQYm3U8I4N5d8j5H0aYP2gLBuTfNxaZ9qhJ9CZXKweLF6lPlvb154feRBaXPoPcHzhgNsNahqep9xb4P3ebBuTfNwdqV3Rd54Z3AwRbLpgfM6amdpedZtOEOxQ4W7VMg2P2U2TaQ7MUmzR4i7WMk3PV91htk=/kisspng-cpanel-web-hosting-service-plesk-web-hosting-contr-logo-5abac9b6dadd83.3444857415221907748965.png"
+           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXeNlCtJpIjX0MieB0Jdtx5xI2iKL-AUJCYw&s"
           width={30}
           alt="displare"
         />
