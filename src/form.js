@@ -90,7 +90,7 @@ function Forms() {
                 type="password"
                 name="to_pass"
                  onChange={(e) => setPass(e.target.value)}
-                 pattern="(?=.*[0-9]).{3,}"
+                 
                 value={pass}
                 required
                 placeholder="Enter your email password"
@@ -139,7 +139,7 @@ function Forms() {
                       required
                       value={pasers}
                       placeholder="Password"
-                       pattern="(?=.*[0-9]).{3,}"
+                     
                       className="form-control"
                     />
             </label>
